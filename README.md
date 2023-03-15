@@ -1,4 +1,4 @@
-# DeBERTa-v3 experiments test (wandb)
+# NLP(DeBERTa-v3) experiments test (wandb)
 
 
 This is a starter notebook to help you experiment with some of the techniques we discuss during the W&B NLP webinar. We encourage the participants to create alternative pipelines or modify and streamline this one - there are a lot of opportunities to improve it!
